@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="vn">
+<head>
+    <meta charset="UTF-8">
+    <title>cv công việc</title>
+</head>
+<body>
+    <h1>Họ và tên</h1>
+    <p>Thái Trần Gia Bảo</p>
+    <h1>Địa chỉ</h1>
+    <p>123 Ba Đình An Giang</p>
+    <h1>Số điện thoại</h1>
+    <p>01030409</p>
+    <h1>Email</h1>
+    <p>pt456@gmail.com</p>
+    <h1>Ảnh</h1>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftcquoctesaigon.edu.vn%2Favatar-anh-ff-ngau-a44473.html&psig=AOvVaw1Uv1glk3br1waEMWoUal1k&ust=1731153903190000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKj8t_3YzIkDFQAAAAAdAAAAABAE" alt="avatar">
+    <h1>Học vấn</h1>
+    <p>Hoàn thành thcs</p>
+    <h1>Bằng cấp</h1>
+    <ul>
+        <li>Tốt nghiệp cấp 1</li>
+        <li>Tốt nghiệp cấp thcs</li>
+    </ul>
+    <h1>Kỹ năng</h1>
+    <ul>
+        <li>có thể rap</li>
+        <li>viết python cơ bản</li>
+        <li>tự học nhanh</li>
+    </ul>
+    <p>Kinh nghiệm</p>
+    <h1>Không có </h1>
+    <p>Định hướng phát triển cá nhân</p>
+    <h1>Trở thành web dev</h1>
+</body>
+</html>
